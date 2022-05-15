@@ -1,0 +1,10 @@
+solo
+350labs
+AndroidStudioProjects
+commissionvision
+coursera
+EventPenguin
+Hover
+other
+Projects
+qsciences
