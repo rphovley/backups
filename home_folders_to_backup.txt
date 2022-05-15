@@ -8,3 +8,8 @@ Hover
 other
 Projects
 qsciences
+.ssh
+.bashrc
+.zshrc
+.zsh_history
+.oh-my-zsh
