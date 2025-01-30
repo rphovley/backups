@@ -8,12 +8,10 @@
 */.dotnet/
 */tmp*/
 */*cache*/
-*/assets/components/
 */packages/
 */bin/
 */.git/refs/
 */*backup*/
-*/datalake/raw-data
 */.gradle/
 */.next/
 */Pods/
