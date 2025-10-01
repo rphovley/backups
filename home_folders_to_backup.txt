@@ -5,3 +5,10 @@ projects
 .zshrc
 .zsh_history
 .oh-my-zsh
+.codeclimbers
+.ebb
+.ebb-keys
+.claude
+.aws
+Music/GarageBand
+Obsidian Vault
